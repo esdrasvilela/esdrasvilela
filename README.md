@@ -63,13 +63,7 @@ I'm a Data Science student passionate about understanding data, identifying patt
 
 ---
 
-## `04 / CONTRIBUTION ACTIVITY`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=esdrasvilela&bg_color=0B0710&color=EDE4F7&line=7C3AED&point=D8B4FE&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
 
 ---
 
