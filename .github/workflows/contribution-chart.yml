@@ -1,0 +1,27 @@
+
+name: Generate Custom Contribution Chart
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution charts
+        uses: pipipi-dev/gcchart@v1
+        with:
+          github_user_name: esdrasvilela
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            contributions.svg?style=clean&theme=dark
+            contributions-90d.svg?period=90&granularity=day&style=clean&theme=dark
