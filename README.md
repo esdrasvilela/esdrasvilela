@@ -67,11 +67,6 @@ I'm a Data Science student passionate about understanding data, identifying patt
 
 ---
 
-## `05 / CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/esdrasvilela/esdrasvilela/output/snake.svg" width="100%" alt="Purple GitHub contribution snake"/>
 
 </div>
 
